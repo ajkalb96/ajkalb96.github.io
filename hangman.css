@@ -1,0 +1,22 @@
+#keyboard_section{
+	width: 400px;
+}
+.keyboard_button{
+	width: 30px;
+	margin: 2px;
+}
+#output{
+	width: 400px;
+	text-align:center;
+	font-size: 30px;
+}
+#status_image{
+	width: 400px;
+	height:400px;
+}
+#reset{
+	text-align center;
+}
+#guesses{
+	width: 400px;
+}
