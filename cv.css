@@ -1,0 +1,42 @@
+.resume_show {
+	font-family: sans-serif;
+	margin: auto;
+	width: 95%;
+	border: 3px solid black;
+	padding: 1em;
+	background-color: #e9e382;
+}
+.section {
+	margin: auto;
+	width: 95%;
+	padding: 0.5em;
+}
+.item {
+	margin: auto;
+	width: 95%;
+	padding: 0.5em;
+}
+.info_item {
+	float: right;
+	font-family: serif;
+	font-style: italic;
+	font-size: 0.9em;
+}
+.header_title{
+	font-size: 4em;
+}
+.header_statement{
+	font-style: oblique;
+	font-size: 1em;
+}
+.section_header{
+	font-size: 2em;
+}
+.item_title{
+	font-weight: bold;
+	font-size: 1.5em;
+}
+.item_subtitle{
+	font-style: oblique;
+	font-size: 1.25em;
+}
