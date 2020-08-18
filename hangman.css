@@ -1,10 +1,7 @@
 #keyboard_section{
 	width: 400px;
 }
-.keyboard_button{
-	width: 30px;
-	margin: 2px;
-}
+
 #output{
 	width: 400px;
 	text-align:center;
@@ -19,4 +16,26 @@
 }
 #guesses{
 	width: 400px;
+}
+#game_box {
+	font-family: sans-serif;
+	margin: auto;
+	width: 400px;
+	padding: 1em;
+	background-image: linear-gradient(to left, red,orange,yellow,green,blue,indigo);
+	
+}
+.keyboard_button{
+	width: 30px;
+	margin: 2px;
+
+}
+body {
+	color: black;
+	font-weight: bold;
+	background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+button {
+	color: blue;
+	background-color: red;
 }
